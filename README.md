@@ -1,1 +1,1 @@
-A project demonstrating the logic and implementation of car racing overtake decision using programming concepts and algorithms.
+A project demonstrating the logic and implementation of car racing fuel status using programming concepts and algorithms.
